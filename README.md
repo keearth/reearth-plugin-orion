@@ -1,0 +1,1 @@
+# Re:Earth Plugin Footprint

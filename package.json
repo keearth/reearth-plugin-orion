@@ -1,0 +1,23 @@
+{
+  "name": "reearth-plugin-orion",
+  "version": "0.0.1",
+  "description": "Re:Earth plugin to show orion",
+  "main": "orion.js",
+  "repository": "https://github.com/keearth/reearth-plugin-orion.git",
+  "author": "KeisukeYamashita <19yamashita15@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.6.4",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^10.2.4",
+    "zip-webpack-plugin": "^4.0.1"
+  }
+}

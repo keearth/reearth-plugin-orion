@@ -1,0 +1,7 @@
+id: reearth-plugin-orion
+name: Orion Plugin
+version: 0.0.1
+extensions:
+  - id: orion
+    type: widget
+    name: Orion Widget
